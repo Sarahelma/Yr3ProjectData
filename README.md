@@ -17,3 +17,7 @@ Repo to store data from drop out tests using NRF24l01P modules
 23/03/2025 - tests at home at 1m for different datarates and using dynamc payload
 
 24/03/2025 - some tests with plans to test upto 1.5km along middlewood way. after some initial test location was deemed unsuitable because curvature+trees impede LOS. 
+
+Live DTI - live wireless CAN tests with DTI inverter. 
+
+
